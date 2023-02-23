@@ -1,0 +1,15 @@
+Deixo aqui alguns comandos importantes para deixar salvo ->
+
+Git Init -> Iniciar Repositório
+
+Git Clone -> Clona um repositório remoto para o computador
+
+Git Status -> Irá mostrar qualquer alteração feita nos arquivos do repositório
+
+Git Add . -> Atualiza as alterações feitas no repositório do computador para enviar para o repositório remoto
+
+Git commit -> Salva alterações feitas no repositório local
+
+Git Push -> Faz o upload das alterações para o repositório remoto.
+
+Git Pull -> Recebe atualização do repositório remoto que não estão no repositório local. 
